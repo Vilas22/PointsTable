@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     flex: 3,
   },
   name: {
-    fontSize: 18,
+    fontSize: 22,
     color: '#333',
   },
   pointsInfo: {
