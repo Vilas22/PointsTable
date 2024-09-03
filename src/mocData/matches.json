@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "player1": 1,
+      "player2": 2,
+      "playerName1":"Darth Vader",
+      "playerName2":"Luke Skywalker",
+      "player1Score": 75,
+      "player2Score": 80
+    },
+    {
+      "id": 2,
+      "player1": 1,
+      "player2": 3,
+      "playerName1":"Darth Vader",
+      "playerName2":"Han Solo",
+      "player1Score": 90,
+      "player2Score": 85
+    },
+    {
+      "id": 3,
+      "player1": 1,
+      "player2": 4,
+      "playerName1":"Darth Vader",
+      "playerName2":"Leia Organa",
+      "player1Score": 60,
+      "player2Score": 60
+    },
+    {
+      "id": 4,
+      "player1": 1,
+      "player2": 5,
+      "playerName1":"Darth Vader",
+      "playerName2":"Yoda",
+      "player1Score": 95,
+      "player2Score": 90
+    },
+    {
+      "id": 5,
+      "player1": 1,
+      "player2": 6,
+      "playerName1":"Darth Vader",
+      "playerName2":"Obi-Wan Kenobi",
+      "player1Score": 50,
+      "player2Score": 70
+    },
+    {
+      "id": 6,
+      "player1": 2,
+      "player2": 3,
+      "playerName1":"Luke Skywalker",
+      "playerName2":"Han Solo",
+      "player1Score": 85,
+      "player2Score": 88
+    },
+    {
+      "id": 7,
+      "player1": 2,
+      "player2": 4,
+      "playerName1":"Luke Skywalker",
+      "playerName2":"Leia Organa",
+      "player1Score": 95,
+      "player2Score": 95
+    },
+    {
+      "id": 8,
+      "player1": 2,
+      "player2": 5,
+      "playerName1":"Luke Skywalker",
+      "playerName2":"Yoda",
+      "player1Score": 100,
+      "player2Score": 85
+    },
+    {
+      "id": 9,
+      "player1": 2,
+      "player2": 6,
+      "playerName1":"Luke Skywalker",
+      "playerName2":"Obi-Wan Kenobi",
+      "player1Score": 75,
+      "player2Score": 80
+    },
+    {
+      "id": 10,
+      "player1": 3,
+      "player2": 4,
+      "playerName1":"Han Solo",
+      "playerName2":"Leia Organa",
+      "player1Score": 55,
+      "player2Score": 60
+    },
+    {
+      "id": 11,
+      "player1": 3,
+      "player2": 5,
+      "playerName1":"Han Solo",
+      "playerName2":"Yoda",
+      "player1Score": 80,
+      "player2Score": 77
+    },
+    {
+      "id": 12,
+      "player1": 3,
+      "player2": 6,
+      "playerName1":"Han Solo",
+      "playerName2":"Obi-Wan Kenobi",
+      "player1Score": 60,
+      "player2Score": 65
+    },
+    {
+      "id": 13,
+      "player1": 4,
+      "player2": 5,
+      "playerName1":"Leia Organa",
+      "playerName2":"Yoda",
+      "player1Score": 90,
+      "player2Score": 88
+    },
+    {
+      "id": 14,
+      "player1": 4,
+      "player2": 6,
+      "playerName1":"Leia Organa",
+      "playerName2":"Obi-Wan Kenobi",
+      "player1Score": 75,
+      "player2Score": 80
+    },
+    {
+      "id": 15,
+      "player1": 5,
+      "player2": 6,
+      "playerName1":"Yoda",
+      "playerName2":"Obi-Wan Kenobi",
+      "player1Score": 100,
+      "player2Score": 95
+    }
+  ]
+  
